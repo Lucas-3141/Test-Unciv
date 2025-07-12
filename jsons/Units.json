@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Testing People",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"uniqueTo": "Test Nation",
+		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"requiredTech": "Mining",
+		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
